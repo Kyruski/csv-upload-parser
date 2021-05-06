@@ -1,0 +1,6 @@
+[submodule "graph-generator-client"]
+	path = graph-generator-client
+	url = https://github.com/Kyruski/graph-generator-client
+[submodule "graph-generator-server"]
+	path = graph-generator-server
+	url = https://github.com/Kyruski/graph-generator-server
