@@ -1,6 +1,6 @@
-[submodule "graph-generator-client"]
-	path = graph-generator-client
-	url = https://github.com/Kyruski/graph-generator-client
-[submodule "graph-generator-server"]
-	path = graph-generator-server
-	url = https://github.com/Kyruski/graph-generator-server
+[submodule "csv-upload-parser-client"]
+	path = csv-upload-parser-client
+	url = https://github.com/Kyruski/csv-upload-parser-client
+[submodule "csv-upload-parser-server"]
+	path = csv-upload-parser-server
+	url = https://github.com/Kyruski/csv-upload-parser-server
